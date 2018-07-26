@@ -1,0 +1,34 @@
+[
+    
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_system_qcom",
+        "target_path":  "system/qcom",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_connectivity",
+        "target_path":  "external/connectivity",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_tinycompress",
+        "target_path":  "external/tinycompress",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_stlport",
+        "target_path":  "external/stlport",
+        "revision":     "lineage-15.1"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_packages_apps_FMRadio",
+        "target_path":  "packages/apps/FMRadio",
+        "revision":     "nougat-mr2"
+    }
+]
+
